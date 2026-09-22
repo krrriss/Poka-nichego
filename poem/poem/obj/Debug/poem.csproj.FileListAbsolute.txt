@@ -1,0 +1,7 @@
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\poem\poem\bin\Debug\poem.exe.config
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\poem\poem\bin\Debug\poem.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\poem\poem\bin\Debug\poem.pdb
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\poem\poem\obj\Debug\poem.csproj.AssemblyReference.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\poem\poem\obj\Debug\poem.csproj.CoreCompileInputs.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\poem\poem\obj\Debug\poem.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\poem\poem\obj\Debug\poem.pdb
