@@ -1,0 +1,8 @@
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\bin\Debug\privet.exe.config
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\bin\Debug\privet.exe
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\bin\Debug\privet.pdb
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\obj\Debug\privet.csproj.AssemblyReference.cache
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\obj\Debug\privet.csproj.CoreCompileInputs.cache
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\obj\Debug\privet.exe
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\obj\Debug\privet.pdb
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\privet\privet\obj\Debug\privet.exe.config
