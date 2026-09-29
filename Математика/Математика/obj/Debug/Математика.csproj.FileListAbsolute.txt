@@ -1,0 +1,7 @@
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Математика\Математика\bin\Debug\Математика.exe.config
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Математика\Математика\bin\Debug\Математика.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Математика\Математика\bin\Debug\Математика.pdb
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Математика\Математика\obj\Debug\Математика.csproj.AssemblyReference.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Математика\Математика\obj\Debug\Математика.csproj.CoreCompileInputs.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Математика\Математика\obj\Debug\Математика.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Математика\Математика\obj\Debug\Математика.pdb
