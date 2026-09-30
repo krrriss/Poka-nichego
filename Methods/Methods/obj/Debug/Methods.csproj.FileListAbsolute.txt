@@ -1,0 +1,7 @@
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\K.R.Grigoryeva\source\repos\krrriss\Poka-nichego\Methods\Methods\obj\Debug\Methods.pdb
