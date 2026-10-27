@@ -1,0 +1,7 @@
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Logical\Logical\bin\Debug\Logical.exe.config
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Logical\Logical\bin\Debug\Logical.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Logical\Logical\bin\Debug\Logical.pdb
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Logical\Logical\obj\Debug\Logical.csproj.AssemblyReference.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Logical\Logical\obj\Debug\Logical.csproj.CoreCompileInputs.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Logical\Logical\obj\Debug\Logical.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Logical\Logical\obj\Debug\Logical.pdb
