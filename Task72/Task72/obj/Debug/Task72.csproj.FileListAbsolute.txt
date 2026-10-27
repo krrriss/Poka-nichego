@@ -1,0 +1,7 @@
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Task72\Task72\bin\Debug\Task72.exe.config
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Task72\Task72\bin\Debug\Task72.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Task72\Task72\bin\Debug\Task72.pdb
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Task72\Task72\obj\Debug\Task72.csproj.AssemblyReference.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Task72\Task72\obj\Debug\Task72.csproj.CoreCompileInputs.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Task72\Task72\obj\Debug\Task72.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\Task72\Task72\obj\Debug\Task72.pdb
