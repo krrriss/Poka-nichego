@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kpuct\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nen\\Poka-nichego\\task86\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F18A15-F947-4BF4-8284-3C499FD5BE7E}|task86\\task86.csproj|c:\\users\\kpuct\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nen\\poka-nichego\\task86\\task86\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F18A15-F947-4BF4-8284-3C499FD5BE7E}|task86\\task86.csproj|solutionrelative:task86\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kpuct\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nen\\Poka-nichego\\task86\\task86\\Program.cs",
+              "RelativeDocumentMoniker": "task86\\Program.cs",
+              "ToolTip": "C:\\Users\\kpuct\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nen\\Poka-nichego\\task86\\task86\\Program.cs",
+              "RelativeToolTip": "task86\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T15:54:47.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
