@@ -1,0 +1,7 @@
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task81\task81\bin\Debug\task81.exe.config
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task81\task81\bin\Debug\task81.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task81\task81\bin\Debug\task81.pdb
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task81\task81\obj\Debug\task81.csproj.AssemblyReference.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task81\task81\obj\Debug\task81.csproj.CoreCompileInputs.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task81\task81\obj\Debug\task81.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task81\task81\obj\Debug\task81.pdb
