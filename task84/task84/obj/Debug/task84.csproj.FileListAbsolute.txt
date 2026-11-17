@@ -1,0 +1,7 @@
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task84\task84\bin\Debug\task84.exe.config
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task84\task84\bin\Debug\task84.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task84\task84\bin\Debug\task84.pdb
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task84\task84\obj\Debug\task84.csproj.AssemblyReference.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task84\task84\obj\Debug\task84.csproj.CoreCompileInputs.cache
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task84\task84\obj\Debug\task84.exe
+C:\Users\kpuct\OneDrive\Рабочий стол\nen\Poka-nichego\task84\task84\obj\Debug\task84.pdb
